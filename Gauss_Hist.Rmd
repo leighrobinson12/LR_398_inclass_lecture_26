@@ -18,3 +18,7 @@ Who was Karl Friedrich Gauss?
 ![](Karl_Friedrich_Gauss.jpeg)
 Gauss was a famous German mathematician and physician, who lived from 1777-1855 and made notable contributions to math and physics.
 
+<<<<<<< HEAD
+=======
+![Our Boy, Gauss.](Gauss.jpeg)
+>>>>>>> 17d5a10fe20788d8c9969c9b50fc008f31dcb582
