@@ -1,0 +1,15 @@
+---
+title: "inclass_26"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Normal (Gaussian) Histogram
+```{r}
+Y <- rnorm(100)
+hist(Y)
+```
+
