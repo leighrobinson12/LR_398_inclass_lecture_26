@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.11)  22 APR 2021 13:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.11)  22 APR 2021 13:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -399,8 +399,7 @@ d-pdftex.def
 File: l3backend-pdftex.def 2021-03-02 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count281
 \l__pdf_internal_box=\box50
-)
-No file Gauss_Hist.aux.
+) (./Gauss_Hist.aux)
 \openout1 = `Gauss_Hist.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 110.
@@ -452,6 +451,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 110.
 LaTeX Info: Redefining \pageref on input line 110.
 LaTeX Info: Redefining \nameref on input line 110.
+(./Gauss_Hist.out) (./Gauss_Hist.out)
 \@outlinefile=\write4
 \openout4 = `Gauss_Hist.out'.
 
@@ -547,25 +547,35 @@ Package pdftex.def Info: Karl_Friedrich_Gauss.jpeg  used on input line 126.
 
 {c:/Users/robin/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
 x.map} <./Gauss_Hist_files/figure-latex/unnamed-chunk-1-1.pdf>]
+<Gauss.jpg, id=20, 858.20625pt x 1606.0pt>
+File: Gauss.jpg Graphic file (type jpg)
+<use Gauss.jpg>
+Package pdftex.def Info: Gauss.jpg  used on input line 132.
+(pdftex.def)             Requested size: 347.58473pt x 650.45096pt.
 
-LaTeX Warning: File `Gauss.jpeg' not found on input line 132.
+LaTeX Warning: Float too large for page by 23.96538pt on input line 134.
 
-
-! Package pdftex.def Error: File `Gauss.jpeg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.132 \includegraphics{Gauss.jpeg}
-                                   
+[2 <./Karl_Friedrich_Gauss.jpeg>] [3 <./Gauss.jpg>] (./Gauss_Hist.aux)
+Package rerunfilecheck Info: File `Gauss_Hist.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
 Here is how much of TeX's memory you used:
- 10364 strings out of 480971
- 152147 string characters out of 5906254
- 451852 words of memory out of 5000000
- 27407 multiletter control sequences out of 15000+600000
+ 10354 strings out of 480971
+ 151934 string characters out of 5906254
+ 452100 words of memory out of 5000000
+ 27398 multiletter control sequences out of 15000+600000
  425013 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 71i,5n,74p,244b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,6n,74p,244b,330s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/Users/robin/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.e
+nc}<c:/Users/robin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr
+10.pfb><c:/Users/robin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm
+/lmr17.pfb><c:/Users/robin/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/publi
+c/lm/lmtt10.pfb>
+Output written on Gauss_Hist.pdf (3 pages, 1376886 bytes).
+PDF statistics:
+ 44 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-!  ==> Fatal error occurred, no output PDF file produced!
